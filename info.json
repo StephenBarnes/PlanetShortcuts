@@ -1,0 +1,12 @@
+{
+	"name": "PlanetShortcuts",
+	"version": "1.0.0",
+	"title": "Planet Shortcuts",
+	"author": "StephenB",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0",
+		"space-age"
+	],
+	"description": "Adds a keyboard shortcut to view each planet"
+}
